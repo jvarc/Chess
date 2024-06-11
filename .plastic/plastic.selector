@@ -1,0 +1,4 @@
+repository "Chess@jvarc@cloud"
+  path "/"
+    br "/main"
+    co "/main"
